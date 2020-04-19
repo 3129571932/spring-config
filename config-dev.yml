@@ -1,2 +1,2 @@
-server:
-  port: 3355
+config:
+  info: 123456
